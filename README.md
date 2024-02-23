@@ -1,6 +1,6 @@
 # Backup-Restore-strategy
 
-To formulate a backup and restore strategy for a relational database like PostgreSQL or MS-SQL to allow point-in-time recovery, we'll need to implement a combination of full backups, incremental backups, and transaction log backups. Below is an outline of the strategy along with an example timeline to illustrate the process:
+To formulate a backup and restore strategy for a relational database like PostgreSQL  to allow point-in-time recovery, and implement a combination of full backups, incremental backups, and transaction log backups process as below.
 
 ### Backup Strategy:
 
